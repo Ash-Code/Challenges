@@ -1,0 +1,39 @@
+9 skidesign
+6 SINGLE
+6 CUSTOM
+12 skidesign.in
+6 CUSTOM
+13 skidesign.out
+2
+0
+14 5
+20
+4
+1
+24
+21
+2 18
+1
+1
+14 5
+1
+4
+20
+21
+24
+2 18
+1
+9 src/tasks
+16 -Xmx256m -Xss64m
+4 Main
+15 tasks.skidesign
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.09
+5 USACO
+1
+25 java.io.InputStreamReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,40 @@
+21 D - Vika and Segments
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+26 3
+0 1 2 1
+1 4 1 2
+0 3 2 3
+
+2 8
+
+1
+1
+42 4
+-2 -1 2 -1
+2 1 -2 1
+-1 -2 -1 2
+1 2 1 -2
+
+3 16
+
+1
+9 src/tasks
+8 -Xmx256M
+4 Main
+11 tasks.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.29
+30 Codeforces Round #337 (Div. 2)
+1
+25 java.io.InputStreamReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,21 @@
+4 Task
+6 SINGLE
+6 CUSTOM
+11 wormhole.in
+6 CUSTOM
+12 wormhole.out
+0
+9 src/tasks
+16 -Xmx256m -Xss64m
+4 Main
+10 tasks.Task
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.02
+5 USACO
+1
+25 java.io.InputStreamReader
+19 java.io.PrintWriter
+0
+0
